@@ -1,1 +1,2 @@
 REGLA 3: Estandarizar los DNI
+REGLA 4: Remmplazar fecha de compra de servicio por 2025
